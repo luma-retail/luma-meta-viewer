@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Luma Meta Viewer
- * Plugin URI: https://www.luma-retail.com/
+ * Plugin URI: https://github.com/luma-retail/luma-meta-viewer
  * Description: Lightweight on-demand meta viewer for products, variations, users, and orders.
- * Version: 0.9.1
+ * Version: 0.9.2
  * Author: Luma Solutions
  * Author URI: https://www.luma-retail.com/
  * Requires at least: 6.0
